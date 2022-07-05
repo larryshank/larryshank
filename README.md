@@ -1,8 +1,9 @@
-## Hello! I'm Larry Ditton. 👋
+## Hello! I'm Larry Ditton 👋
 I'm a software engineer. I want to make high-quality projects with an attention to detail. 
 
 I'm also a cyclist, hiker, reader, and avid podcast listener. 
 
+📍 Boulder, CO
 
 ### Teck Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
