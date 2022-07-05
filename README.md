@@ -1,6 +1,8 @@
 ## Hello! I'm Larry Ditton.
 
-I'm a software engineer. I want to make high-quality projects with an attention to detail. I'm also a cyclist, hiker, reader, and avid podcast listener. 
+I'm a software engineer. I want to make high-quality projects with an attention to detail. 
+
+I'm also a cyclist, hiker, reader, and avid podcast listener. 
 
 
 ### Teck Stack
